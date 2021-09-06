@@ -8,6 +8,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeon&show_icons=true&theme=dracula)
 
 </div>
