@@ -8,6 +8,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soooyeon-Kim&layout=compact)](https://github.com/Soooyeon-Kim/github-readme-stats)
 
 </div>
