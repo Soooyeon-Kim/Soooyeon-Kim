@@ -5,7 +5,7 @@
 #### 🌈INTRODUCE
 I'm a student in the Department of Information Statistics.
 #### 🌈STUDY 
-I'm studying my major through a study **"Outlier"**.
+I'm studying my major through a study **"Outlier"**.🥔
 
 <div align = "center">
   <br/>
