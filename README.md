@@ -5,7 +5,7 @@
 #### 🌈INTRODUCE
 I'm a student in the Department of Information Statistics.
 #### 🌈STUDY 
-I'm studying my major through a study **"Outlier"**.🥔
+I'm studying my major through a study [**Outlier**](https://ddwoutlier.github.io/outlier.github.io/member.html).🥔
 
 <div align = "center">
   <br/>
@@ -18,6 +18,8 @@ I'm studying my major through a study **"Outlier"**.🥔
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <br/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&Studio&logoColor=white"/></a>
+  <br/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&Studio&logoColor=white"/></a>
   <br/>
